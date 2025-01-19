@@ -70,11 +70,13 @@
 4. Explain various components of NodeMCU. (2023-2)
 5. Write a sketch to calculate distance using ultrasonic sensor. (2023-2)
 6. Explain Raspberry Pi in detail. (2023-2)
+7. Write a Program to Blink two LEDs Connected to D5 and D6 in alternate manner. Explain each functions used in this program.
 
 ### 4 marks
 
 1. Mention the versions of Linux OS supported by Raspberry Pi. (2023-1)
 2. What do you mean by Arduino? (2023-2)
+3. What is DHT11?
 
 ## Unit 5
 
